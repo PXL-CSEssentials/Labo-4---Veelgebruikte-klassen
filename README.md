@@ -1,6 +1,7 @@
 ﻿# Labo 4 - Veelgebruikte-klassen: Wachtwoordmeter
 
 ![afbeelding](media/passwordMeter1.png)
+
 We gaan een applicatie maken waarmee we kunnen meten hoe sterk een wachtwoord is.​
 
 ## Deel 1
